@@ -1,0 +1,58 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.1",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^3.16.2",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "escape-string-regexp": "^1.0.5",
+    "google-map-react": "^1.1.6",
+    "google-maps-react": "^2.0.2",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.6.2",
+    "qs": "latest",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-debounce-input": "^3.2.2",
+    "react-dom": "^16.12.0",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^3.9.0",
+    "react-moment": "^0.9.7",
+    "react-places-autocomplete": "^7.2.1",
+    "react-router": "5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^2.3.0"
+  }
+}
